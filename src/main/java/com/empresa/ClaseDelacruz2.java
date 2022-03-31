@@ -1,6 +1,6 @@
 package com.empresa;
 
-public class ClaseDelacruz {
+public class ClaseDelacruz2 {
 
 	int y =7;
 	
