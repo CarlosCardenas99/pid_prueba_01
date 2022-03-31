@@ -8,6 +8,8 @@ class Sesion01InicioApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		int x;
 	}
 
 }
